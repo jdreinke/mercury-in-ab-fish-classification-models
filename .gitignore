@@ -8,4 +8,4 @@ __pycache__/
 data/raw/
 *.pkl
 *.h5
-/notebooks/modelling.ipynb
+!/notebooks/modelling.ipynb
