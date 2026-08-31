@@ -1,4 +1,10 @@
-.ipynb_checkpoints
-*/.ipynb_checkpoints/*
 profile_default/
 ipython_config.py
+
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.idea/
+data/raw/
+*.pkl
+*.h5
